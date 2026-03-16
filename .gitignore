@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data
+# raw/ gait.csv is keeped as it is small-medium, but recommended to ignore if it grows
+# data/raw/gait.csv
+
+# OS
+.DS_Store
